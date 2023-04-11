@@ -9,12 +9,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=luitame&style=flat-square&color=blue" alt="Profile views count"/>
 
+I'm Luitame. I am a Senior Software Engineer at X-Team, where I was working on the [Flosports](https://www.flosports.tv/) projects. Previously I have worked at [Linio](https://www.linio.com/) where I was maintaining and creating new features on a web system used by the sellers to manage their sales into the ecommerce and also I worked at [Oowlish](https://www.oowlish.com/#our-services) where I worked in different projects used by the pets industry. 
+
+
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working as a Software Engineer at X-Team
-- 🌱 I’m currently learning systems design
+- 🔭 I’m currently working on: Studying Javascript to improve my level of efficient using this stack  
+- 🌱 I’m currently learning how to design and architect large/complex systems.
 - :eyes: I’m interested on Software Architecture, Backend and lately I've been exploring the Serverless world
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luitame-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luitame/)
+- :smile: Pronouns: he/him
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
