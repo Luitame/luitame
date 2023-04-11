@@ -14,7 +14,7 @@ I'm Luitame. I am a Senior Software Engineer at X-Team, where I was working on t
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on: Studying Javascript to improve my level of efficient using this stack  
+- 🔭 I’m currently working on: Studying Javascript to improve my efficiency level using this stack
 - 🌱 I’m currently learning how to design and architect large/complex systems.
 - :eyes: I’m interested on Software Architecture, Backend and lately I've been exploring the Serverless world
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luitame-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luitame/)
