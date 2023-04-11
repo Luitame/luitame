@@ -16,9 +16,10 @@ I'm Luitame. I am a Senior Software Engineer at [X-Team](https://x-team.com/), w
 
 - 🔭 I’m currently working on: Studying Javascript to improve my efficiency level using this stack
 - 🌱 I’m currently learning how to design and architect large/complex systems.
-- :eyes: I’m interested on Software Architecture, Backend and lately I've been exploring the Serverless world
+- :eyes: I’m interested on software architecture, serverless, and lately I've been exploring [OpenAI API](https://openai.com/blog/openai-api)
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luitame-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luitame/)
 - :smile: Pronouns: he/him
+- :zap: Fun fact: I used to study and play acoustic guitar on my free time :guitar:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
