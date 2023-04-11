@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=luitame&style=flat-square&color=blue" alt="Profile views count"/>
 
-I'm Luitame. I am a Senior Software Engineer at [X-Team](https://x-team.com/), where I was working on the [Flosports](https://www.flosports.tv/) projects. Previously I have worked at [Linio](https://www.linio.com/) where I was maintaining and creating new features on a web system used by the sellers to manage their sales into the ecommerce and also I worked at [Oowlish](https://www.oowlish.com/#our-services) where I worked in different projects used by the pets industry. 
+I'm Luitame. I am a Senior Software Engineer at [X-Team](https://x-team.com/), where I was working on the [Flosports](https://www.flosports.tv/) projects. Previously I have worked at [Linio](https://www.linio.com/) where I was maintaining and creating new features on a web system used by the sellers to manage their sales inside the ecommerce and also I worked at [Oowlish](https://www.oowlish.com/#our-services) where I worked in different projects used by the pets industry. 
 
 
 ### :man_technologist: About Me :
